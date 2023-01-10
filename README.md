@@ -10,8 +10,8 @@ rover test \
       -d
 
 ## Example Run Tests Command
-./rover.sh test \
-      -b ./test/azure \
+./rover/rover.sh ./caf/test \
+      -b ./caf/test/azure \
       -env crimes3_demo \
       -level level0 \
       -tfstate launchpad.tfstate \

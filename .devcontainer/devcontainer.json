@@ -20,7 +20,7 @@
     "settings": {
         "files.eol": "\n",
         "editor.tabSize": 2,
-        "terminal.integrated.scrollback": 32000
+        "terminal.integrated.scrollback": 32000,
     },
 
     // Uncomment the next line if you want start specific services in your Docker Compose config.
